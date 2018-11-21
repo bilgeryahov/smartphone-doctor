@@ -1,0 +1,2 @@
+1. Add a build status icon for the Web App.
+2. What does `npm run test` do from the internal README.md file?
