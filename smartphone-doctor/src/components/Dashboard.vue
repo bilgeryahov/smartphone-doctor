@@ -1,6 +1,7 @@
 <template>
 	<div>
 		<h3>Dashboard</h3>
+    <h4>Hey Yo!</h4>
 		<button
 			name="button"
 			@click="signOut"
