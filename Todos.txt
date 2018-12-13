@@ -1,2 +1,0 @@
-2. What does `npm run test` do from the internal README.md file?
-3. For production builds make sure to remove the console logs.
